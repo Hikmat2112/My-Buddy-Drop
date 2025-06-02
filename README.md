@@ -1,2 +1,2 @@
-# My-Buddy-Drop
-A mobile app that helps people to taj
+# My-Buddy-Drop : Trusted care for your pet, anytime you are not there.
+
